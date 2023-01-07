@@ -13,7 +13,8 @@ public class MethodBuildingHouse {
 
     }
     public static String buildHouse(int numberOfFloors, String color){
-        return color + " " + numberOfFloors + "-floors building";
+        String buildingParameters = color + " " + numberOfFloors + "-floors building";
+        return buildingParameters;
     }
 
 
