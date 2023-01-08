@@ -9,7 +9,7 @@ public class BooleanHasAccess {
         if (hasAccess){    /* this code means next: if boolean veriable "hasAccess" is true, than do next line*/
             System.out.println("So the access is granted");
         } else {
-            System.out.println("And this means that access denied");
+            System.out.println("And this means that access is denied");
         }
     }
 }
