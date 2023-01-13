@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce71d229-e29a-4eb3-8744-26b08cf63772" name="Changes" comment="Method that prints rectangle parameters" />
+    <list default="true" id="ce71d229-e29a-4eb3-8744-26b08cf63772" name="Changes" comment="Wallet money added">
+      <change afterPath="$PROJECT_DIR$/src/mateAcademy/AgeChecking_Else_if.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,14 +29,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/1.Coding/Mate Academy/codePracticeMateAcademy"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/1.Coding/Mate Academy/codePracticeMateAcademy&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.AgeChecking_Else_if">
+    <configuration name="AgeChecking_Else_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mateAcademy.AgeChecking_Else_if" />
+      <module name="codePracticeMateAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mateAcademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooleanCanBuy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mateAcademy.BooleanCanBuy" />
+      <module name="codePracticeMateAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mateAcademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BooleanHasAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mateAcademy.BooleanHasAccess" />
+      <module name="codePracticeMateAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mateAcademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodBuildingHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mateAcademy.MethodBuildingHouse" />
+      <module name="codePracticeMateAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mateAcademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MethodRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mateAcademy.MethodRectangle" />
       <module name="codePracticeMateAcademy" />
@@ -49,7 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AgeChecking_Else_if" />
         <item itemvalue="Application.MethodRectangle" />
+        <item itemvalue="Application.MethodBuildingHouse" />
+        <item itemvalue="Application.BooleanCanBuy" />
+        <item itemvalue="Application.BooleanHasAccess" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +142,70 @@
       <option name="project" value="LOCAL" />
       <updated>1673094042767</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Method that prints rectangle parameters">
+      <created>1673094418201</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673094418201</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Method that prints parameters of houses">
+      <created>1673095608281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673095608281</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added new parameter: color of the building">
+      <created>1673095865760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673095865760</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed return mechanic">
+      <created>1673096097640</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1673096097640</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New method created: checks if the number is even">
+      <created>1673096851096</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1673096851096</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New method created: checks if the number is even">
+      <created>1673173910211</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673173910211</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Age checking program created (Boolean)">
+      <created>1673174069524</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673174069524</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Age and money checking program created (Boolean)">
+      <created>1673175590449</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673175590449</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Wallet money added">
+      <created>1673176516531</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1673176516531</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +221,13 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Method that prints rectangle parameters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Method that prints rectangle parameters" />
+    <MESSAGE value="Method that prints parameters of houses" />
+    <MESSAGE value="Added new parameter: color of the building" />
+    <MESSAGE value="Changed return mechanic" />
+    <MESSAGE value="New method created: checks if the number is even" />
+    <MESSAGE value="Age checking program created (Boolean)" />
+    <MESSAGE value="Age and money checking program created (Boolean)" />
+    <MESSAGE value="Wallet money added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wallet money added" />
   </component>
 </project>
