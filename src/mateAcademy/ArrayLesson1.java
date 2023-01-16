@@ -16,6 +16,11 @@ public class ArrayLesson1 {
         for (String name: names){
             System.out.println("Your name is... " + name);
         }
+        names[2] = "Diana";
+        for (String name: names) {
+            System.out.println("Your name is... " + name);
+        }
+
         for (String catName: catNames){
             System.out.println("Hello " + catName);
         }
