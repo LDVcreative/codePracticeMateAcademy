@@ -17,7 +17,15 @@ public class ArrayLesson2 {
             System.out.println(numberOfPlayers[i]);
         }
 
-            }
+        int x = 1;
+        int y = 22;
+        int z = 333;
+        int[] numbers = {x, y, z};
+        for (int i = 0; i < numbers.length; i++){
+            System.out.println(numbers[i]);
+        }
+
+    }
 
 
 }
