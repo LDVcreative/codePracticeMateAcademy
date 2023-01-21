@@ -23,5 +23,21 @@ public class ArrayMethodSumOfOddNumbers {
         }
         return sumOfOddNumbers;
     }
+}
+/*Розв'язок ментора:
+
+public class IgnoreEvenNumbers {
+    public static int getSum(int[] numbers) {
+        int result = 0;
+
+        for (int number : numbers) {
+            if (number % 2 == 0) {
+                continue;
+            }
+            result += number;
+        }
+
+        return result;
     }
 }
+ */
