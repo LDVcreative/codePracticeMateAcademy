@@ -24,6 +24,7 @@ public class ArrayLesson2 {
         for (int i = 0; i < numbers.length; i++){
             System.out.println(numbers[i]);
         }
+        System.out.println("Number is " + numbers[0]);
 
     }
 
