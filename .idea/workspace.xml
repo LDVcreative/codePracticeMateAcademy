@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce71d229-e29a-4eb3-8744-26b08cf63772" name="Changes" comment="Wallet money added">
-      <change afterPath="$PROJECT_DIR$/src/mateAcademy/AgeChecking_Else_if.java" afterDir="false" />
+    <list default="true" id="ce71d229-e29a-4eb3-8744-26b08cf63772" name="Changes" comment="Method that finds the largest and smallest value of an array">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,9 +35,9 @@
     &quot;last_opened_file_path&quot;: &quot;D:/1.Coding/Mate Academy/codePracticeMateAcademy&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AgeChecking_Else_if">
-    <configuration name="AgeChecking_Else_if" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mateAcademy.AgeChecking_Else_if" />
+  <component name="RunManager" selected="Application.ArrayMaxValue">
+    <configuration name="ArrayLesson1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mateAcademy.ArrayLesson1" />
       <module name="codePracticeMateAcademy" />
       <extension name="coverage">
         <pattern>
@@ -50,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleanCanBuy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mateAcademy.BooleanCanBuy" />
+    <configuration name="ArrayLesson2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mateAcademy.ArrayLesson2" />
       <module name="codePracticeMateAcademy" />
       <extension name="coverage">
         <pattern>
@@ -63,7 +62,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleanHasAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ArrayMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mateAcademy.ArrayMaxValue" />
+      <module name="codePracticeMateAcademy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mateAcademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mateAcademy.BooleanHasAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mateAcademy.BooleanHasAccess" />
       <module name="codePracticeMateAcademy" />
       <extension name="coverage">
@@ -76,21 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodBuildingHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mateAcademy.MethodBuildingHouse" />
-      <module name="codePracticeMateAcademy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="mateAcademy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MethodRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mateAcademy.MethodRectangle" />
+    <configuration name="mateAcademy.LoopQuiz1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mateAcademy.LoopQuiz1" />
       <module name="codePracticeMateAcademy" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AgeChecking_Else_if" />
-        <item itemvalue="Application.MethodRectangle" />
-        <item itemvalue="Application.MethodBuildingHouse" />
-        <item itemvalue="Application.BooleanCanBuy" />
-        <item itemvalue="Application.BooleanHasAccess" />
+        <item itemvalue="Application.ArrayMaxValue" />
+        <item itemvalue="Application.ArrayLesson2" />
+        <item itemvalue="Application.ArrayLesson1" />
+        <item itemvalue="Application.mateAcademy.LoopQuiz1" />
+        <item itemvalue="Application.mateAcademy.BooleanHasAccess" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +204,105 @@
       <option name="project" value="LOCAL" />
       <updated>1673176516531</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Age checking program created">
+      <created>1673642333536</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673642333536</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Program made">
+      <created>1673900442017</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1673900442017</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&quot;For each&quot; added">
+      <created>1673901098989</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673901098989</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Empty array created&#10;Arrays filled with numbers (2 methods)">
+      <created>1673902922380</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1673902922380</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Empty array created&#10;Arrays filled with numbers (2 methods)">
+      <created>1673902932793</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673902932793</updated>
+    </task>
+    <task id="LOCAL-00018" summary="New array added">
+      <created>1673903337703</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1673903337703</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Experiments with array">
+      <created>1674294938580</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674294938580</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Method with array&#10;!!!Unresolved!!!&#10;Task: find how to print result of method with array">
+      <created>1674297575262</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674297575262</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Method that sums all odd numbers of array">
+      <created>1674299969260</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674299969261</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Task and explanations added">
+      <created>1674300575360</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1674300575360</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Mentor's solution added">
+      <created>1674300730737</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1674300730737</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Method that sums elements of array, starting from its middle">
+      <created>1674302810633</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1674302810633</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Mentor`s solution added">
+      <created>1674302936902</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1674302936902</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Method that finds the largest and smallest value of an array">
+      <created>1674305179382</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1674305179382</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +325,20 @@
     <MESSAGE value="Age checking program created (Boolean)" />
     <MESSAGE value="Age and money checking program created (Boolean)" />
     <MESSAGE value="Wallet money added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wallet money added" />
+    <MESSAGE value="Age checking program created" />
+    <MESSAGE value="Program made" />
+    <MESSAGE value="&quot;For each&quot; added" />
+    <MESSAGE value="Name Jill has been changed in array &quot;names&quot;" />
+    <MESSAGE value="Empty array created&#10;Arrays filled with numbers (2 methods)" />
+    <MESSAGE value="New array added" />
+    <MESSAGE value="Experiments with array" />
+    <MESSAGE value="Method with array&#10;!!!Unresolved!!!&#10;Task: find how to print result of method with array" />
+    <MESSAGE value="Method that sums all odd numbers of array" />
+    <MESSAGE value="Task and explanations added" />
+    <MESSAGE value="Mentor's solution added" />
+    <MESSAGE value="Method that sums elements of array, starting from its middle" />
+    <MESSAGE value="Mentor`s solution added" />
+    <MESSAGE value="Method that finds the largest and smallest value of an array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Method that finds the largest and smallest value of an array" />
   </component>
 </project>
