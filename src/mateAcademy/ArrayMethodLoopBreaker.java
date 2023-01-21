@@ -20,3 +20,22 @@ public class ArrayMethodLoopBreaker {
     }
 
 }
+
+/*
+Mentor's solution:
+public class LoopBreaker {
+  public static int getSum(int[] numbers) {
+    int result = 0;
+
+    for (int i = numbers.length / 2; i < numbers.length; i++) {
+      if (numbers[i] == 1) {
+        break;
+      }
+      result += numbers[i];
+    }
+
+    return result;
+  }
+}
+
+ */
