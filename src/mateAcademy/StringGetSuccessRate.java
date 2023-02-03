@@ -28,3 +28,25 @@ public class StringGetSuccessRate {
         return counter/statisticArray.length;
     }
 }
+
+
+
+
+/*Mentor's solution
+
+public class StringGetSuccessRate {
+    public static double getSuccessRate(String statistic) {
+        if (statistic.equals("")){
+            return 0;
+        }
+        int count = 0;
+        for(int i = 0; i < statistic.length(); i++){
+            if (statistic.charAt(i) == 1){
+                count++;
+            }
+        return (double) count / statistic.length();
+        }
+    }
+}
+
+ */
