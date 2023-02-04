@@ -13,3 +13,19 @@ public class StringMakeAbbr {
         // write your code above this line
     }
 }
+
+/*
+Mentors solution
+
+public class MakeAbbr {
+  public static String makeAbbr(String fullName) {
+  String[] words = fullName.split(" ");
+  StringBuilder builder = new StringBuilder();
+
+  for (String word : words){
+    builder.append(word.toUppercase().charAt(0);
+  }
+  return builder.toString;
+  }
+}
+ */
