@@ -10,8 +10,6 @@ public class MarkStringEnds {
         String wordFirstLetterUpCase = firstLetter + originalString.substring(1);
         String wordLastLetterUpCase = originalString.substring(0, lastIndex) + lastLetter;
 
-
-
         return new String[]{wordFirstLetterUpCase, wordLastLetterUpCase};
     }
 }
